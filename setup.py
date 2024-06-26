@@ -11,7 +11,7 @@ EXCLUDE_LIST = [
     "static_html.*", "arxivbot.*"
 ]
 REQUIRED = [
-    "torch", "allennlp==0.9.0", "spacy", "fastText",
+    "torch", "allennlp", "spacy", "fastText",
     "pandas",
 ]
 
